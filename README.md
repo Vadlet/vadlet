@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👨‍💻 Vadim Letuchy (@vadlet)
 
-<!--
-**Vadlet/vadlet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+iOS - App Developer 🚀📱. Currently looking for a job so if you've got something see [Contacts](#contacts).
 
-Here are some ideas to get you started:
+## 🦾 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠 **Patterns**: `MV(x)`, `VIPER`
+
+- 💾 **Data Storage**: `CoreData`, `Realm`
+
+- 🎨 **Layout**: `Storyboard`, `xib`, `SnapKit`, `Autolayout`, `Anchor`
+
+- 🧰 **Dependencies**: `CocoaPods`, `Carthage`, `SPM`
+
+- 🌊 **Multithreading**: `GCD`
+
+- 📡 **Networking**: `URLSession`, `Alamofire`
+
+## 📨 Contacts
+
+- **Telegram** (preferred): [@shuryak](https://t.me/vdltz)
+
+- **Email**: [freeAA24@yandex.ru](letuchyvadim95@yandex.ru)
