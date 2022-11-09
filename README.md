@@ -4,11 +4,15 @@ iOS - App Developer 🚀📱. Currently looking for a job so if you've got somet
 
 ## 🦾 Skills
 
+- 🗃 **Programming Language**: `Swift`
+
 - 🛠 **Patterns**: `MV(x)`, `VIPER`
 
 - 💾 **Data Storage**: `CoreData`, `Realm`
 
-- 🎨 **Layout**: `Storyboard`, `xib`, `SnapKit`, `Autolayout`, `Anchor`
+- 🎨 **UI**: `UIKit`
+
+- 🖌 **Layout**: `Storyboard`, `xib`, `SnapKit`, `Autolayout`, `Anchor`
 
 - 🧰 **Dependencies**: `CocoaPods`, `Carthage`, `SPM`
 
