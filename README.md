@@ -2,7 +2,7 @@
 
 iOS - App Developer 🚀📱. Currently looking for a job so if you've got something see [Contacts](#contacts).
 
-## 🦾 Skills
+## 🥋 Skills
 
 - 🗃 **Programming Language**: `Swift`
 
@@ -20,7 +20,7 @@ iOS - App Developer 🚀📱. Currently looking for a job so if you've got somet
 
 - 📡 **Networking**: `URLSession`, `Alamofire`
 
-## 📨 Contacts
+## 📬 Contacts
 
 - **Telegram** (preferred): [@vdltz](https://t.me/vdltz)
 
