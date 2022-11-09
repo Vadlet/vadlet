@@ -22,6 +22,6 @@ iOS - App Developer 🚀📱. Currently looking for a job so if you've got somet
 
 ## 📨 Contacts
 
-- **Telegram** (preferred): [@shuryak](https://t.me/vdltz)
+- **Telegram** (preferred): [@vdltz](https://t.me/vdltz)
 
-- **Email**: [freeAA24@yandex.ru](letuchyvadim95@yandex.ru)
+- **Email**: [letuchyvadim95@yandex.ru](letuchyvadim95@yandex.ru)
